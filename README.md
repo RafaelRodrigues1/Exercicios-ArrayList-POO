@@ -56,7 +56,7 @@
 
   * E-mail 
 
-* 9)[LISTA DE SUPERMERCADO] Crie um programa que dê ao usuário a opção de cadastrar itens que o 
+* 9) [LISTA DE SUPERMERCADO] Crie um programa que dê ao usuário a opção de cadastrar itens que o 
 
   mesmo almeja comprar em sua ida ao supermercado. Para tal, o programa deverá possibilitar que 
 
